@@ -1,3 +1,5 @@
+## merge_data(data1, data2)
+
 def merge_data(data1, data2):
     merged = {}
 
